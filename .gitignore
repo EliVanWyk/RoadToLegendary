@@ -1,0 +1,9 @@
+# Eclipse / Java build output
+bin/
+*.class
+.metadata/
+.settings/
+# editor / OS files
+.DS_Store
+Thumbs.db
+*.tmp
